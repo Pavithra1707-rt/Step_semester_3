@@ -5,3 +5,4 @@
 29/08/2026 - Pushed all Week 4 class problems and assignment problems.
 05/09/2026 - Pushed all Week 5 class problems.
 06/09/2026 - Pushed all Week 5 assignment problems
+12/09/2026 - Pushed all Week 6 class problems and assignment problems
